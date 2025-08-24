@@ -26,4 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Statistics at Simon Fraser University. My research focuses on developing novel Monte Carlo methods, including extensions of Markov Chain Monte Carlo (MCMC) and Sequential Monte Carlo (SMC), as well as applying them to problems in statistical machine learning. My goal is to design computational tools that improve uncertainty quantification, model selection, and the reliability of complex models such as neural networks. My research supervisor is [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
+### About me
+ - PhD student in Statistics at Simon Fraser University.
+ - Research focus: Monte Carlo methods, particularly Markov Chain Monte Carlo (MCMC) and Sequential Monte Carlo (SMC) and statistical machine learning.
+ - Interests: Developing new Monte Carlo methods and applying them to problems in statistical machine learning. My goal is to design computational tools that improve uncertainty quantification, model selection, and the reliability of complex models such as neural networks.
+ - Supervised by: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
