@@ -23,7 +23,6 @@
       year: 2024
       description:
         - Statistics (major) and Computer Science (minor)
-        - Computer Science (minor)
 
 - title: Experience
   type: time_table
@@ -50,7 +49,7 @@
         - PhD Research Scholarship
         - Graduate Fellowship
         - Travel and Research Award
-    -year: 2024
+    - year: 2024
       items:
         - Undergraduate Student Research Award
     - year: 2023
@@ -61,14 +60,14 @@
         - President's Honour Roll
         - Gentai Financial Group Undergraduate Scholarship in Finance
     - year: 2021
-      items: President's Honour Roll
+      items:
+        - President's Honour Roll
     - year: 2019
-      items: Open Scholarship
+      items:
+        - Open Scholarship
     - year: 2018
-      items: Open Scholarship
-        
-        
-        
+      items:
+        - Open Scholarship
 
 - title: Academic Interests
   type: nested_list
@@ -80,5 +79,3 @@
     - title: Statistical Machine Learning
       items:
         - Bayesian Neural Networks
-
-
