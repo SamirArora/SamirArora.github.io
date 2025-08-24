@@ -32,6 +32,10 @@ latest_posts:
  - Interests: Developing new Monte Carlo methods and applying them to problems in statistical machine learning. My goal is to design computational tools that improve uncertainty quantification, model selection, and the reliability of complex models such as neural networks.
  - Supervised by: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
 
-![Annealed SMC Illustration](/assets/img/ASMC.png)
-*Annealed Sequential Monte Carlo (ASMC).*  
-A method that gradually transforms a simple distribution into a complex one through a sequence of intermediate steps. In much the same way, complex challenges in life can often be tackled more effectively by breaking them down into smaller, manageable tasks.
+<div style="text-align: center; max-width: 600px; margin: auto;">
+  <img src="/assets/img/ASMC.png" alt="Annealed SMC Illustration" style="width: 100%; height: auto;">
+  <p style="font-style: italic; margin-top: 0.5em;">
+    Annealed Sequential Monte Carlo (ASMC).<br>
+    A method that gradually transforms a simple distribution into a complex one through a sequence of intermediate steps. In much the same way, complex challenges in life can often be tackled more effectively by breaking them down into smaller, manageable tasks.
+  </p>
+</div>
