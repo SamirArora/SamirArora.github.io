@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered a talk at International Conference on Statistics and Data Science 2025."
+Delivered a talk at International Conference on Statistics and Data Science (ICSDS) 2025.
