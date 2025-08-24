@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SamirArora.github.io/sitemap.xml
+Sitemap: https://samirarora.github.io/sitemap.xml
