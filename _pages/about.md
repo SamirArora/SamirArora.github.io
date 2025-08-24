@@ -11,6 +11,7 @@ profile:
     <p>Department of Statistics and Actuarial Science</p>
     <p>Simon Fraser University</p>
     <p>Burnaby, BC, Canada, V5A 1A6</p>
+    <p>Email: samir_arora@sfu.ca</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
