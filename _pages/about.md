@@ -31,3 +31,5 @@ latest_posts:
  - Research focus: Monte Carlo methods, particularly Markov Chain Monte Carlo (MCMC) and Sequential Monte Carlo (SMC) and statistical machine learning.
  - Interests: Developing new Monte Carlo methods and applying them to problems in statistical machine learning. My goal is to design computational tools that improve uncertainty quantification, model selection, and the reliability of complex models such as neural networks.
  - Supervised by: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
+
+![Annealed SMC Illustration](/assets/images/annealed_smc.png)
