@@ -34,9 +34,9 @@ latest_posts:
  - Supervised by: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
 
 <p align="left">
-<img src="/assets/img/ASMC.png" alt="Annealed SMC Illustration" style="width: 100%; height: auto;">
+  <img src="/assets/img/ASMC.png" alt="Annealed SMC Illustration" width="80%" style="max-width: 600px; height: auto;">
+</p>
 <p style="font-style: italic; margin-top: 0.5em;">
 Annealed Sequential Monte Carlo (ASMC).<br>
 A sampling method where a sequence of intermediate distributions smoothly interpolates from a tractable initial distribution to a complex target distribution, enabling efficient estimation and sampling. In much the same way, complex challenges in life can often be tackled more effectively by breaking them down into smaller, manageable tasks.
 </p>
-</div>
