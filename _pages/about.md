@@ -33,3 +33,5 @@ latest_posts:
  - Supervised by: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
 
 ![Annealed SMC Illustration](/assets/img/ASMC.png)
+*Annealed Sequential Monte Carlo (ASMC).*  
+A method that gradually transforms a simple distribution into a complex one through a sequence of intermediate steps. In much the same way, complex challenges in life can often be tackled more effectively by breaking them down into smaller, manageable tasks.
