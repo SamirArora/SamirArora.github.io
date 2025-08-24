@@ -36,6 +36,6 @@ latest_posts:
   <img src="/assets/img/ASMC.png" alt="Annealed SMC Illustration" style="width: 100%; height: auto;">
   <p style="font-style: italic; margin-top: 0.5em;">
     Annealed Sequential Monte Carlo (ASMC).<br>
-    A method that gradually transforms a simple distribution into a complex one through a sequence of intermediate steps. In much the same way, complex challenges in life can often be tackled more effectively by breaking them down into smaller, manageable tasks.
+    A sampling method where a sequence of intermediate distributions smoothly interpolates from a tractable initial distribution to a complex target distribution, enabling efficient estimation and sampling. In much the same way, complex challenges in life can often be tackled more effectively by breaking them down into smaller, manageable tasks.
   </p>
 </div>
