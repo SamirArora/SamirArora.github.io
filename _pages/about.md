@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>Department of Statistics and Actuarial Science</p>
     <p>Simon Fraser University</p>
-    <p>Burnaby, BC, Canada, V5A 1A6</p>
+    <p>Burnaby, BC, Canada, V5A 1S6</p>
     <p>Email: samir_arora@sfu.ca</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -31,7 +31,7 @@ latest_posts:
  - PhD student in Statistics at Simon Fraser University.
  - Research focus: Monte Carlo methods, particularly Markov Chain Monte Carlo (MCMC) and Sequential Monte Carlo (SMC) and statistical machine learning.
  - Interests: Developing new Monte Carlo methods and applying them to problems in statistical machine learning. My goal is to design computational tools that improve uncertainty quantification, model selection, and the reliability of complex models such as neural networks.
- - Supervised by: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
+ - Supervisor: [Dr. Liangliang Wang](https://www.sfu.ca/~lwa68/).
 
 <p align="left">
   <img src="/assets/img/ASMC.png" alt="Annealed SMC Illustration" width="80%" style="max-width: 600px; height: auto;">
